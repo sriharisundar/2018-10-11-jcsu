@@ -47,7 +47,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 
-<a href="https://misportal.jlab.org/Ul/conferences/generic_conference/registration.cfm?conference_id=COMPUTING-MAY2018">Here is the Link to Registration Page</a>
+<a href="">Here is the Link to Registration Page</a>
 
 
 <h2 id="general">General Information</h2>
